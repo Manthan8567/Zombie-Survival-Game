@@ -6,6 +6,7 @@
 - The Player has a weapon and is surrounded by zombies, need to stand last to survive and win the game.
 - The Player has a weapon gun and zombies comes in a wave pattern with each time increasing numbers of zombies.
 - The Player can collect the Ammunation packs from different locations to fight zombies.
+- The Player has a health bar with the UI and the zombies health can be seen on the top left corner with log.
 - If Player takes multiple hit from zombies, then the player dies and has to restart the game.
 
 ## Inputs of the game:
