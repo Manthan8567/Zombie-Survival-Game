@@ -2,7 +2,7 @@
 # [Zombie Survival Game]
 
 ## Description:
-- This is a First person shooting survival zombie game made with Unreal Engine 5.
+- First person shooting survival zombie game made with Unreal Engine 5.
 - The Player has a weapon and is surrounded by zombies, need to stand last to survive and win the game.
 - The Player has a weapon gun and zombies comes in a wave pattern with each time increasing numbers of zombies.
 - The Player can collect the Ammunation packs from different locations to fight zombies.
