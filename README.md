@@ -13,8 +13,8 @@
 - To Movement - W, A, S, D or Arrow keys
 - To Jump - Spacebar
 - To Aim - Mouse Lookaround
-- To Shoot - Mouse Right Click
-- To Reload - Mouse Left Click
+- To Shoot - Mouse Left Click
+- To Reload - Mouse Right Click
 - To Pause - Esc
 - To Resume- Press the resume Button
 - To Main Menu- Press the main menu Button
